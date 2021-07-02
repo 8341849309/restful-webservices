@@ -6,8 +6,9 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/RDP/Jar Files/Jackson/jackson-core-asl-1.1.0.jar"/>
-	<classpathentry kind="lib" path="D:/RDP/Jar Files/Jackson/jackson-mapper-asl-1.5.0.jar"/>
 	<classpathentry kind="lib" path="D:/RDP/Jar Files/lombok-1.18.12.jar"/>
+	<classpathentry kind="lib" path="D:/RDP/Jar Files/Jackson/jackson-annotations-2.12.3.jar"/>
+	<classpathentry kind="lib" path="D:/RDP/Jar Files/Jackson/jackson-core-2.12.3.jar"/>
+	<classpathentry kind="lib" path="D:/RDP/Jar Files/Jackson/jackson-databind-2.12.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
